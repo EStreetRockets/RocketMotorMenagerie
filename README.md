@@ -25,7 +25,7 @@ NOTE: Do NOT rename or move folders within the GameData folder. The mod will bre
 
 Recommended Mods
 ----
-The following mods are recommended for a better gameplay experience:
+The following mods are strongly recommended for an enhanced gameplay experience:
 * [CryoTanks (1.6.0)](https://forum.kerbalspaceprogram.com/index.php?/topic/195042-111x-cryotanks-liquid-hydrogen-storage-and-management-feb-21-2021/) - This provides a set of patches provide fuel-switching features for most basic LF and LF/O tanks as well as orbital fuel tanks specially designed to contain cryogenic fuels
 * [Waterfall (0.6.3)](https://forum.kerbalspaceprogram.com/index.php?/topic/196309-111x-waterfall-a-framework-for-continuous-mesh-driven-engine-effects-march-26/) - A cool  way to create and drive engine effects more effectively. If you want cool engine plumes, get this mod.
 
