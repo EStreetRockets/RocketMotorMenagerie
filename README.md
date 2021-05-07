@@ -4,7 +4,7 @@ This part pack is designed to provide some new interesting rocket engines and di
 
 Features
 ----
-Currently the mod only includes 1 part, the RM-122T "Rainier" Cyrogenic Engine, a stockalike version of the Space Transportation Main Engine. In the future it will feature many more engines using different fuels. These fuels provide advanatages and disadvantages compared to stock Liquid Fuel and Oxidizer, having different efficiencies, thrust ranges and storage volumes. You can check out my [roadmap](https://trello.com/b/22sCynUl/engine-pack-roadmap) of engines that **potentially** could be added.
+Currently the mod only includes 1 part, the RM-122T "Rainier" Cryogenic Engine, a stockalike version of the Space Transportation Main Engine. In the future it will feature many more engines using different fuels. These fuels provide advantages and disadvantages compared to stock Liquid Fuel and Oxidizer, having different efficiencies, thrust ranges and storage volumes. You can check out my [roadmap](https://trello.com/b/22sCynUl/engine-pack-roadmap) of engines that **potentially** could be added.
 
 Dependencies
 ----
