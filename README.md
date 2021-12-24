@@ -1,10 +1,10 @@
 # RocketMotorMenagerie
  
-This part pack is designed to provide some new interesting rocket engines and diversify your propulsion options.
+This part pack is designed to provide interesting rocket engines and diversify your propulsion options.
 
 Features
 ----
-Currently the mod only includes 1 part, the RM-122T "Rainier" Cryogenic Engine, a stockalike version of the Space Transportation Main Engine. In the future it will feature many more engines using different fuels. These fuels provide advantages and disadvantages compared to stock Liquid Fuel and Oxidizer, having different efficiencies, thrust ranges and storage volumes. You can check out my [roadmap](https://trello.com/b/22sCynUl/engine-pack-roadmap) of engines that **potentially** could be added.
+Currently the mod only includes 1 part, the RM-122T "Rainier" Cryogenic Engine, a stockalike version of the Space Transportation Main Engine. In the future it will feature many more engines using different fuels. These fuels provide advantages and disadvantages compared to stock Liquid Fuel and Oxidizer, having different efficiencies, thrust ranges and storage volumes. You can check out my [roadmap](https://trello.com/b/22sCynUl/engine-pack-roadmap) of engines that **potentially** could be added. I am currently working on stockalike versions of a family of engines derived from the Space Shuttle Main Engine.
 
 Dependencies
 ----
@@ -27,7 +27,7 @@ Recommended Mods
 ----
 The following mods are strongly recommended for an enhanced gameplay experience:
 * [CryoTanks (1.6.0)](https://forum.kerbalspaceprogram.com/index.php?/topic/195042-111x-cryotanks-liquid-hydrogen-storage-and-management-feb-21-2021/) - This provides a set of patches provide fuel-switching features for most basic LF and LF/O tanks as well as orbital fuel tanks specially designed to contain cryogenic fuels
-* [Waterfall (0.6.3)](https://forum.kerbalspaceprogram.com/index.php?/topic/196309-111x-waterfall-a-framework-for-continuous-mesh-driven-engine-effects-march-26/) - A cool  way to create and drive engine effects more effectively. If you want cool engine plumes, get this mod.
+* [Waterfall (0.6.3)](https://forum.kerbalspaceprogram.com/index.php?/topic/196309-111x-waterfall-a-framework-for-continuous-mesh-driven-engine-effects-march-26/) - A cool  way to create and drive engine effects more effectively. If you want cool engine plumes for these engines, get this mod.
 
 Contributing
 ----
