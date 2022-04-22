@@ -4,7 +4,13 @@ This part pack is designed to provide interesting rocket engines and diversify y
 
 Features
 ----
-Currently the mod only includes 1 part, the RM-122T "Rainier" Cryogenic Engine, a stockalike version of the Space Transportation Main Engine. In the future it will feature many more engines using different fuels. These fuels provide advantages and disadvantages compared to stock Liquid Fuel and Oxidizer, having different efficiencies, thrust ranges and storage volumes. You can check out my [roadmap](https://trello.com/b/22sCynUl/engine-pack-roadmap) of engines that **potentially** could be added. I am currently working on stockalike versions of a family of engines derived from the Space Shuttle Main Engine.
+Currently the mod includes the following parts:
+
+|RMM Engine|Real Analogue||Wiki Link|
+|---|---|---|
+|RM-122T 'Rainier' Cryogenic Rocket Engine|Space Transportation Main Engine||
+
+You will notice that they run on a variety of fuels. These fuels provide advantages and disadvantages compared to stock Liquid Fuel and Oxidizer, having different efficiencies, thrust ranges and storage volumes. You can check out my [roadmap](https://trello.com/b/22sCynUl/engine-pack-roadmap) of engines that **potentially** could be added.
 
 Dependencies
 ----
