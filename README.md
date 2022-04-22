@@ -16,7 +16,7 @@ Currently the mod includes the following parts:
 * RM-25-TDI 'Arsia' Cryogenic Rocket Engine
 * RM-13SE 'Turiasaurus' Cryogenic Rocket Engine
 
-You can read more about the engines in the Wiki.
+You can read more about the engines in the [Wiki](https://github.com/EStreetRockets/RocketMotorMenagerie/wiki).
 
 You will notice that they run on a variety of fuels. These fuels provide advantages and disadvantages compared to stock Liquid Fuel and Oxidizer, having different efficiencies, thrust ranges and storage volumes. You can check out my [roadmap](https://trello.com/b/22sCynUl/engine-pack-roadmap) of engines that **potentially** could be added.
 
