@@ -12,7 +12,7 @@ Currently the mod includes the following parts:
 * RM-25-150 'Ceraunius' Cryogenic Rocket Engine
 * RM-25-50X 'Ishtar' Cryogenic Rocket Engine
 * RM-4LR-35 'Arenysaurus' Cryogenic Rocket Engine
-* RM-S3S-35 'Dugong' Liquid Fuel Engine
+* RM-S6B-35 'Dugong' Liquid Fuel Engine
 * RM-25-TDI 'Arsia' Cryogenic Rocket Engine
 * RM-13SE 'Turiasaurus' Cryogenic Rocket Engine
 
